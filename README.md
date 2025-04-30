@@ -14,8 +14,7 @@
 
 Sou estudante de Engenharia de Software na Universidade Federal do Pampa👩‍💻
 
-Gosto de atuar tanto com testes manuais, quanto explorando o poder da automação de testes com ferramentas como Selenium, Cypress e Postman.  
-Tenho interesse constante em aprender mais sobre processos ágeis, integração contínua (CI/CD), e tudo que envolva entregar um produto com qualidade.
+Gosto de atuar tanto com testes manuais, quanto explorando o poder da automação de testes com ferramentas como Selenium, Cypress e Postman. Tenho interesse constante em aprender mais sobre processos ágeis, integração contínua (CI/CD), e tudo que envolva entregar um produto com qualidade.
 
 🔭 Sou curiosa por tudo que envolve **qualidade de software**, desde o planejamento até a entrega.  
   
