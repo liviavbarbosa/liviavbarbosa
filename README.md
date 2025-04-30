@@ -1,20 +1,18 @@
-## Olá👋, sou Lívia!  
+## Olá, sou Lívia 👋
   
-
-<a href="https://github.com/liviavbarbosa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/livia-barbosa-326232293" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/liviavbarbosa" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<a href="mailto:liviav.barbosa@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
   
 
 Sou estudante de Engenharia de Software na Universidade Federal do Pampa👩‍💻
 
-Gosto de atuar tanto com testes manuais, quanto explorando o poder da automação de testes com ferramentas como Selenium, Cypress e Postman. Tenho interesse constante em aprender mais sobre processos ágeis, integração contínua (CI/CD), e tudo que envolva entregar um produto com qualidade.
+🔎 Gosto de atuar tanto com testes manuais, quanto explorando o poder da automação de testes com ferramentas como Selenium, Cypress e Postman. 
+
+📚 Tenho interesse constante em aprender mais sobre processos ágeis e integração contínua (CI/CD).
 
 🔭 Sou curiosa por tudo que envolve **qualidade de software**, desde o planejamento até a entrega.  
   
@@ -42,12 +40,10 @@ Gosto de atuar tanto com testes manuais, quanto explorando o poder da automaçã
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>
 <a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px; background: white; border-radius: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" height="25" /></a>  
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="25" /></a>  
 <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px; background: white; border-radius: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="25" /></a>
 <a href="https://pytest.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="Pytest" height="25" /></a>
 <a href="https://junit.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" alt="JUnit" height="25" /></a>
 </div>  
-
-<br/>  
+<br/>
