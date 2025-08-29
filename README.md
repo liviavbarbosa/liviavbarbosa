@@ -1,4 +1,4 @@
-## Olá, sou Lívia 👋
+## Olá, sou a Lívia 👋
   
 <a href="https://linkedin.com/in/livia-barbosa-326232293" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
@@ -8,18 +8,18 @@
 </a>
   
 
-Sou estudante de Engenharia de Software na Universidade Federal do Pampa👩‍💻
+Sou estudante de Engenharia de Software na Universidade Federal do Pampa (UNIPAMPA) 👩‍💻
 
-🔎 Gosto de atuar tanto com testes manuais, quanto explorando o poder da automação de testes com ferramentas como Selenium, Cypress e Postman. 
+🔎 Gosto de atuar tanto com testes manuais, quanto explorando o poder da automação de testes com ferramentas como Selenium, Cypress, Postman e Robot Framework. 
 
-📚 Tenho interesse constante em aprender mais sobre processos ágeis e integração contínua (CI/CD).
+📚 Atualmente, estou explorando mais a área de QA e testes, buscando mais conteúdos que abrangem técnicas, ferramentas, metodologias e estratégias de testes, além de explorar aspectos de qualidade de produto e qualidade de processo.
 
-🔭 Sou curiosa por tudo que envolve **qualidade de software**, desde o planejamento até a entrega.  
-  
+🔭 Sou curiosa por tudo que envolve **qualidade de software**, desde o planejamento até a entrega.
 
+😊 Sou apaixonada por gatos e livros.
 <br/>  
 
-
+-----------------------------------------------------------------
 ## Linguagens e Ferramentas 
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>   
@@ -43,3 +43,10 @@ Sou estudante de Engenharia de Software na Universidade Federal do Pampa👩‍�
 <a href="https://junit.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" alt="JUnit" height="25" /></a>
 </div>  
 <br/>
+
+---------------------------------------------------------------
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liviavbarbosa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liviavbarbosa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
