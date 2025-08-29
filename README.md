@@ -17,6 +17,10 @@ Sou estudante de Engenharia de Software na Universidade Federal do Pampa (UNIPAM
 🔭 Sou curiosa por tudo que envolve **qualidade de software**, desde o planejamento até a entrega.
 
 😊 Sou apaixonada por gatos e livros.
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/91/46/af/9146afebd87baeb012258f43e49d6393.gif"  />
+</div>
 <br/>  
 
 -----------------------------------------------------------------
