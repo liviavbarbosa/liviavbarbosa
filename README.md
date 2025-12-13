@@ -8,11 +8,11 @@
 </a>
   
 
-Sou estudante de Engenharia de Software na Universidade Federal do Pampa (UNIPAMPA) 👩‍💻
+Sou estudante de Engenharia de Software na Universidade Federal do Pampa (UNIPAMPA) 💻
 
 🔎 Gosto de atuar tanto com testes manuais, quanto explorando o poder da automação de testes com ferramentas como Selenium, Cypress, Postman e Robot Framework. 
 
-📚 Atualmente, estou explorando mais a área de QA e testes, buscando mais conteúdos que abrangem técnicas, ferramentas, metodologias e estratégias de testes, além de explorar aspectos de qualidade de produto e qualidade de processo.
+👩‍💻 Atualmente, estou trabalhando com a automação de testes com Robot Framework.
 
 🔭 Sou curiosa por tudo que envolve **qualidade de software**, desde o planejamento até a entrega.
 
